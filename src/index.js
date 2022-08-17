@@ -9,7 +9,7 @@ function fetchImages(){
     }))
 }
 
-//fetch breeds and add to breed list
+//fetch breeds, add to empty array, and add to breed list
 function fetchBreeds(){
     const dogBreeds = []
 
